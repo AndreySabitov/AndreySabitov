@@ -10,6 +10,10 @@
 - Тестирование: Unit-тестирование, Mock-тестирование, MockMvc
 - Дополнительные: Querydsl, Circuit Breaker, Avro, Protobuf
 
+### Контакты:
+* email: andrey.sabitoff@yandex.ru
+* Telegram: @AndreySabitov
+
 Примеры реализованных мной проектов закреплены ниже:
 
 <!--
